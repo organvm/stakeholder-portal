@@ -31,16 +31,16 @@
     "@dnd-kit/utilities": "3.2.2",
     "@langchain/core": "1.1.31",
     "@langchain/textsplitters": "1.0.1",
-    "drizzle-orm": "0.45.1",
+    "drizzle-orm": "0.45.2",
     "langchain": "1.2.35",
-    "next": "16.2.3",
+    "next": "16.2.6",
     "next-auth": "5.0.0-beta.30",
     "pg": "8.20.0",
     "pgvector": "0.2.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-markdown": "10.1.0",
-    "yaml": "2.8.2"
+    "yaml": "2.9.0"
   },
   "overrides": {
     "flatted": "https://github.com/WebReflection/flatted/archive/refs/tags/v3.4.2.tar.gz",
