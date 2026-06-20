@@ -44,7 +44,8 @@
   },
   "overrides": {
     "flatted": "https://github.com/WebReflection/flatted/archive/refs/tags/v3.4.2.tar.gz",
-    "esbuild": "^0.25.12"
+    "esbuild": "^0.25.12",
+    "postcss": "8.5.15"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.1",
